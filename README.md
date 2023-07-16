@@ -33,6 +33,15 @@ $port_no = 3306; <br>
 $username = "dbms";<br>
 $password = "project";<br>
 $myDB = "research";
+<h3> Working of Website </h3>
+ 
+
+
+
+https://github.com/ankitaanand28/DBMS-PROJECT_2023/assets/95133586/c3ba257f-b46e-410d-9e7e-59cb0f4bd182
+
+
+
 
 <h3>Pagewise Specificatons: </h3> <br>
 <h4>
